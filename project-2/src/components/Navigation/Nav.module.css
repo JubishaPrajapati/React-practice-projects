@@ -1,0 +1,13 @@
+.nav{
+    padding: 0 8px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav ul{
+    display: flex;
+    gap: 24px;
+    list-style-type: none;   /*to fix ul ma bhako dot airako*/
+    font-weight: 500;
+}
